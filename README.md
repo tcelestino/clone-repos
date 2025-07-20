@@ -71,10 +71,8 @@ The script will:
 
 ```
 # My repositories
-https://github.com/username/project1
-https://github.com/username/project2
-git@github.com:username/project3.git
-
-# Organization repositories
-https://github.com/organization/repo1
+https://github.com/username/repo
+git@github.com:username/repo.git
+https://github.com/company/repo
+git@github.com:company/repo.git
 ```
